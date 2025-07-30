@@ -1,5 +1,8 @@
-## Hi there 👋
-![](database-server-2378.png)
+## Hi there 👋 
+
+I am Dmytro Hladkykh.
+
+There is a collection of some [useful tips](https://github.com/vorzelmir/TheTips) for Linux admins and DevOps 
 <!--
 **vorzelmir/vorzelmir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
